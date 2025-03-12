@@ -1,7 +1,7 @@
 # DevLaunch - Solana Token Ecosystem for Developers
 
 <div align="center">
-  <img src="public/images/logo.png" alt="DevLaunch Logo" width="200" />
+  <img src="apps/frontend/public/images/logo.png" alt="DevLaunch Logo" width="200" />
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   [![Website](https://img.shields.io/badge/Website-devlaunch.fun-blue)](https://devlaunch.fun)
