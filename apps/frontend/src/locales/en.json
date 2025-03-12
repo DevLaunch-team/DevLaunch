@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "defaultTitle": "Solana Token Launch Platform",
+    "defaultDescription": "Launch your Solana token with ease using DevLaunch platform",
+    "defaultKeywords": "solana, token, blockchain, crypto, devlaunch"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "tokens": "Tokens",
+    "wallet": "Wallet",
+    "transactions": "Transactions",
+    "createToken": "Create Token",
+    "about": "About",
+    "contact": "Contact",
+    "docs": "Documentation"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "loginToAccount": "Login to your account",
+    "createNewAccount": "Create a new account",
+    "loginToExistingAccount": "Login to your existing account",
+    "loggingIn": "Logging in...",
+    "registering": "Registering...",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot password?",
+    "rememberMe": "Remember me",
+    "or": "Or",
+    "registerNewAccount": "register a new account",
+    "loginFailed": "Login failed",
+    "loginError": "An error occurred during login",
+    "registerFailed": "Registration failed",
+    "registerError": "An error occurred during registration",
+    "orLoginWith": "Or login with",
+    "orUseSocialAccount": "Or use social account",
+    "google": "Google",
+    "github": "GitHub",
+    "agreeToTerms": "I agree to the ",
+    "and": " and ",
+    "pleaseConfirmPassword": "Please confirm your password",
+    "usernamePattern": "Username can only contain letters, numbers, and underscores"
+  },
+  "common": {
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "contactUs": "Contact Us",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "continue": "Continue",
+    "confirm": "Confirm",
+    "search": "Search",
+    "refresh": "Refresh",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "transfer": "Transfer",
+    "close": "Close",
+    "dismiss": "Dismiss",
+    "notification": "Notification"
+  },
+  "notifications": {
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Information",
+    "actionCompleted": "Action completed successfully",
+    "actionFailed": "Action failed",
+    "checkConnection": "Please check your connection and try again"
+  },
+  "form": {
+    "selectPlaceholder": "Please select...",
+    "optional": "Optional",
+    "required": "Required",
+    "submit": "Submit",
+    "clear": "Clear",
+    "reset": "Reset",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "ascending": "Ascending",
+    "descending": "Descending",
+    "validation": {
+      "formInvalid": "Please fix the errors in the form before submitting."
+    }
+  },
+  "legal": {
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "error": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "minLength": "Minimum length is {0} characters",
+    "maxLength": "Maximum length is {0} characters",
+    "passwordMatch": "Passwords do not match",
+    "passwordStrength": "Password must be at least 8 characters and include uppercase, lowercase, and numbers",
+    "pattern": "Invalid format",
+    "invalid": "Invalid value",
+    "componentError": "Component Error",
+    "somethingWentWrong": "Something went wrong. Please try again.",
+    "tryAgain": "Try Again",
+    "unexpectedError": "An unexpected error occurred",
+    "networkError": "Network error. Please check your connection.",
+    "serverError": "Server error. Please try again later.",
+    "authRequired": "Authentication required to access this resource.",
+    "permissionDenied": "Permission denied. You don't have access to this resource.",
+    "invalidInput": "Invalid input. Please check your data and try again.",
+    "timeout": "Request timed out. Please try again.",
+    "authNeeded": "Authentication required, please login first."
+  },
+  "wallet": {
+    "title": "My Wallet",
+    "connectWallet": "Connect Your Wallet",
+    "connectWalletDesc": "Please connect your Solana wallet to view your balances and tokens.",
+    "walletAddress": "Wallet Address",
+    "notConnected": "Wallet not connected",
+    "solBalance": "SOL Balance",
+    "tokens": "Tokens",
+    "createToken": "Create Token",
+    "noTokens": "You don't have any tokens yet",
+    "createFirstToken": "Create your first token",
+    "tokenName": "Name",
+    "tokenSymbol": "Symbol",
+    "tokenBalance": "Balance",
+    "tokenAddress": "Token Address",
+    "tokenActions": "Actions",
+    "fetchError": "Error fetching wallet data"
+  },
+  "page": {
+    "notFound": "Page Not Found",
+    "notFoundMessage": "The page you are looking for does not exist or has been moved.",
+    "unauthorized": "Unauthorized",
+    "unauthorizedMessage": "You don't have permission to access this page.",
+    "unauthorizedDescription": "Login required to access this page",
+    "serverError": "Server Error",
+    "serverErrorMessage": "Something went wrong on our end. Please try again later.",
+    "serverErrorDescription": "An unexpected error occurred on the server",
+    "genericError": "An Error Occurred",
+    "genericErrorMessage": "We encountered an error while processing your request.",
+    "noAccessPermission": "You don't have permission to access this resource.",
+    "goHome": "Go to Home Page"
+  },
+  "home": {
+    "metaTitle": "DevLaunch - Solana Token Launch Platform",
+    "metaDescription": "Create and manage your own Solana tokens with ease using DevLaunch platform",
+    "hero": {
+      "title": "Launch your token on Solana with ease",
+      "subtitle": "DevLaunch provides the simplest way to create, manage and transfer tokens on the Solana blockchain.",
+      "register": "Get Started",
+      "login": "Sign In",
+      "enterApp": "Enter App"
+    },
+    "features": {
+      "title": "Platform Features",
+      "subtitle": "Discover what DevLaunch can do for your project",
+      "tokenCreation": {
+        "title": "Simple Token Creation",
+        "description": "Create your own token in minutes with just a few clicks, no coding required."
+      },
+      "transactions": {
+        "title": "Easy Transfers",
+        "description": "Send tokens to anyone with a Solana wallet with our simple transfer interface."
+      },
+      "identity": {
+        "title": "Token Identity",
+        "description": "Build trust with a verified token identity including social media links and project details."
+      },
+      "verification": {
+        "title": "Community Verification",
+        "description": "Get your token verified by the community to increase visibility and trust."
+      },
+      "liquidity": {
+        "title": "Liquidity Solutions",
+        "description": "Easily create liquidity pools and get your token trading on decentralized exchanges."
+      },
+      "dashboard": {
+        "title": "Powerful Dashboard",
+        "description": "Track token performance, holder statistics, and transaction history in one place."
+      }
+    },
+    "steps": {
+      "title": "How It Works",
+      "subtitle": "Get your token live on Solana in three simple steps",
+      "step1": {
+        "title": "Connect Your Wallet",
+        "description": "Connect your Solana wallet to our platform to get started."
+      },
+      "step2": {
+        "title": "Create Your Token",
+        "description": "Fill in the token details like name, symbol, and supply."
+      },
+      "step3": {
+        "title": "Launch & Manage",
+        "description": "Deploy your token and start managing transfers and holders."
+      }
+    },
+    "roadmap": {
+      "title": "Platform Roadmap",
+      "subtitle": "Our vision for the future of DevLaunch",
+      "phase1": {
+        "phase": "Phase 1",
+        "timeline": "Q1 2023",
+        "title": "Token Creation & Management",
+        "description": "Launch basic token creation and management features for Solana tokens."
+      },
+      "phase2": {
+        "phase": "Phase 2",
+        "timeline": "Q2 2023",
+        "title": "Token Identity & Verification",
+        "description": "Introduce token identity verification and community trust features."
+      },
+      "phase3": {
+        "phase": "Phase 3",
+        "timeline": "Q3 2023",
+        "title": "Liquidity & Trading",
+        "description": "Add liquidity pool creation and DEX integration for token trading."
+      },
+      "phase4": {
+        "phase": "Phase 4",
+        "timeline": "Q4 2023",
+        "title": "Advanced Analytics & Marketing",
+        "description": "Provide advanced analytics and marketing tools for token projects."
+      }
+    },
+    "cta": {
+      "title": "Ready to Launch Your Token?",
+      "description": "Get started today and launch your Solana token in minutes.",
+      "createToken": "Create a Token",
+      "registerNow": "Register Now"
+    },
+    "footer": {
+      "tagline": "Simplifying token launches on Solana",
+      "copyright": "© {{year}} DevLaunch. All rights reserved."
+    }
+  },
+  "pagination": {
+    "first": "First page",
+    "previous": "Previous page",
+    "next": "Next page",
+    "last": "Last page",
+    "showing": "Showing {{start}} to {{end}} of {{total}} items",
+    "itemsPerPage": "Items per page:"
+  }
+} 

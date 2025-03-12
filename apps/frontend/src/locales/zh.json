@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "defaultTitle": "Solana代币发行平台",
+    "defaultDescription": "使用DevLaunch平台轻松发行您的Solana代币",
+    "defaultKeywords": "solana, 代币, 区块链, 加密货币, devlaunch"
+  },
+  "nav": {
+    "home": "首页",
+    "dashboard": "仪表盘",
+    "tokens": "代币",
+    "wallet": "钱包",
+    "transactions": "交易",
+    "createToken": "创建代币",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "docs": "文档"
+  },
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "loginToAccount": "登录您的账户",
+    "createNewAccount": "创建新账户",
+    "loginToExistingAccount": "登录已有账户",
+    "loggingIn": "登录中...",
+    "registering": "注册中...",
+    "username": "用户名",
+    "email": "电子邮箱",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "forgotPassword": "忘记密码？",
+    "rememberMe": "记住我",
+    "or": "或",
+    "registerNewAccount": "注册新账户",
+    "loginFailed": "登录失败",
+    "loginError": "登录过程中发生错误",
+    "registerFailed": "注册失败",
+    "registerError": "注册过程中发生错误",
+    "orLoginWith": "或使用以下方式登录",
+    "orUseSocialAccount": "或使用社交账号",
+    "google": "谷歌",
+    "github": "GitHub",
+    "agreeToTerms": "我同意",
+    "and": "和",
+    "pleaseConfirmPassword": "请确认您的密码",
+    "usernamePattern": "用户名只能包含字母、数字和下划线"
+  },
+  "common": {
+    "profile": "个人资料",
+    "settings": "设置",
+    "logout": "退出登录",
+    "contactUs": "联系我们",
+    "loading": "加载中...",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "create": "创建",
+    "submit": "提交",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "continue": "继续",
+    "confirm": "确认",
+    "search": "搜索",
+    "refresh": "刷新",
+    "copy": "复制",
+    "copied": "已复制！",
+    "transfer": "转账",
+    "close": "关闭",
+    "dismiss": "忽略",
+    "notification": "通知"
+  },
+  "notifications": {
+    "success": "成功",
+    "error": "错误",
+    "warning": "警告",
+    "info": "信息",
+    "actionCompleted": "操作已成功完成",
+    "actionFailed": "操作失败",
+    "checkConnection": "请检查您的网络连接并重试"
+  },
+  "form": {
+    "selectPlaceholder": "请选择...",
+    "optional": "可选",
+    "required": "必填",
+    "submit": "提交",
+    "clear": "清除",
+    "reset": "重置",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "ascending": "升序",
+    "descending": "降序",
+    "validation": {
+      "formInvalid": "请修复表单中的错误后再提交。"
+    }
+  },
+  "legal": {
+    "termsOfService": "服务条款",
+    "privacyPolicy": "隐私政策"
+  },
+  "error": {
+    "required": "此字段为必填项",
+    "invalidEmail": "无效的电子邮箱地址",
+    "minLength": "最小长度为{0}个字符",
+    "maxLength": "最大长度为{0}个字符",
+    "passwordMatch": "密码不匹配",
+    "passwordStrength": "密码必须至少8个字符，并包含大写字母、小写字母和数字",
+    "pattern": "格式无效",
+    "invalid": "值无效",
+    "componentError": "组件错误",
+    "somethingWentWrong": "出现了问题，请重试。",
+    "tryAgain": "重试",
+    "unexpectedError": "发生意外错误",
+    "networkError": "网络错误，请检查您的连接。",
+    "serverError": "服务器错误，请稍后再试。",
+    "authRequired": "需要身份验证才能访问此资源。",
+    "permissionDenied": "权限被拒绝，您无权访问此资源。",
+    "invalidInput": "无效的输入，请检查您的数据并重试。",
+    "timeout": "请求超时，请重试。",
+    "authNeeded": "需要认证，请先登录。"
+  },
+  "wallet": {
+    "title": "我的钱包",
+    "connectWallet": "连接您的钱包",
+    "connectWalletDesc": "请连接您的 Solana 钱包以查看您的余额和代币。",
+    "walletAddress": "钱包地址",
+    "notConnected": "未连接钱包",
+    "solBalance": "SOL 余额",
+    "tokens": "代币",
+    "createToken": "创建代币",
+    "noTokens": "您还没有任何代币",
+    "createFirstToken": "创建您的第一个代币",
+    "tokenName": "名称",
+    "tokenSymbol": "符号",
+    "tokenBalance": "余额",
+    "tokenAddress": "代币地址",
+    "tokenActions": "操作",
+    "fetchError": "获取钱包数据时出错"
+  },
+  "page": {
+    "notFound": "页面未找到",
+    "notFoundMessage": "您访问的页面不存在或已被移动。",
+    "unauthorized": "未授权",
+    "unauthorizedMessage": "您没有权限访问此页面。",
+    "unauthorizedDescription": "需要登录才能访问此页面",
+    "serverError": "服务器错误",
+    "serverErrorMessage": "我们的服务器出现了问题。请稍后再试。",
+    "serverErrorDescription": "服务器发生了意外错误",
+    "genericError": "发生错误",
+    "genericErrorMessage": "我们在处理您的请求时遇到了错误。",
+    "noAccessPermission": "您没有权限访问此资源。",
+    "goHome": "返回首页"
+  },
+  "home": {
+    "metaTitle": "DevLaunch - Solana代币发行平台",
+    "metaDescription": "使用DevLaunch平台轻松创建和管理您自己的Solana代币",
+    "hero": {
+      "title": "轻松在Solana上发行您的代币",
+      "subtitle": "DevLaunch提供最简单的方式在Solana区块链上创建、管理和转移代币。",
+      "register": "开始使用",
+      "login": "登录",
+      "enterApp": "进入应用"
+    },
+    "features": {
+      "title": "平台特性",
+      "subtitle": "探索DevLaunch能为您的项目带来什么",
+      "tokenCreation": {
+        "title": "简单代币创建",
+        "description": "只需几次点击，无需编码，即可在几分钟内创建您自己的代币。"
+      },
+      "transactions": {
+        "title": "便捷转账",
+        "description": "通过我们简单的转账界面，向任何拥有Solana钱包的人发送代币。"
+      },
+      "identity": {
+        "title": "代币身份",
+        "description": "通过包含社交媒体链接和项目详情的已验证代币身份建立信任。"
+      },
+      "verification": {
+        "title": "社区验证",
+        "description": "通过社区验证您的代币，以提高可见度和信任度。"
+      },
+      "liquidity": {
+        "title": "流动性解决方案",
+        "description": "轻松创建流动性池，并在去中心化交易所上交易您的代币。"
+      },
+      "dashboard": {
+        "title": "强大的仪表盘",
+        "description": "在一个地方跟踪代币性能、持有者统计和交易历史。"
+      }
+    },
+    "steps": {
+      "title": "如何使用",
+      "subtitle": "通过三个简单步骤在Solana上发行您的代币",
+      "step1": {
+        "title": "连接您的钱包",
+        "description": "将您的Solana钱包连接到我们的平台，开始使用。"
+      },
+      "step2": {
+        "title": "创建您的代币",
+        "description": "填写代币详情，如名称、符号和供应量。"
+      },
+      "step3": {
+        "title": "发行与管理",
+        "description": "部署您的代币，开始管理转账和持有者。"
+      }
+    },
+    "roadmap": {
+      "title": "平台路线图",
+      "subtitle": "我们对DevLaunch未来的愿景",
+      "phase1": {
+        "phase": "第一阶段",
+        "timeline": "2023年第一季度",
+        "title": "代币创建与管理",
+        "description": "推出Solana代币的基本创建和管理功能。"
+      },
+      "phase2": {
+        "phase": "第二阶段",
+        "timeline": "2023年第二季度",
+        "title": "代币身份与验证",
+        "description": "引入代币身份验证和社区信任功能。"
+      },
+      "phase3": {
+        "phase": "第三阶段",
+        "timeline": "2023年第三季度",
+        "title": "流动性与交易",
+        "description": "添加流动性池创建和DEX集成，用于代币交易。"
+      },
+      "phase4": {
+        "phase": "第四阶段",
+        "timeline": "2023年第四季度",
+        "title": "高级分析与营销",
+        "description": "为代币项目提供高级分析和营销工具。"
+      }
+    },
+    "cta": {
+      "title": "准备好发行您的代币了吗？",
+      "description": "今天开始，几分钟内就能发行您的Solana代币。",
+      "createToken": "创建代币",
+      "registerNow": "立即注册"
+    },
+    "footer": {
+      "tagline": "简化Solana上的代币发行",
+      "copyright": "© {{year}} DevLaunch. 保留所有权利。"
+    }
+  },
+  "pagination": {
+    "first": "第一页",
+    "previous": "上一页",
+    "next": "下一页",
+    "last": "最后页",
+    "showing": "显示 {{start}} 到 {{end}}，共 {{total}} 条",
+    "itemsPerPage": "每页显示:"
+  }
+} 
